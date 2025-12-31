@@ -6,10 +6,6 @@
 
 An API which executes codes
 
-## Info
-
-This version is not hosted, you can access the deployed version here - "https://github.com/kushagra-goyal-14/CodeBox-API"
-
 ## Requirements !!
 
 Docker and docker-compose should be present on the machine.
@@ -137,3 +133,4 @@ Worked Successfully !!
 This port is exposed by docker-compose.
 
 > This project is not deployed as it requires a full instance due to various microservices, but a version will be deployed that is not scaled like this version but will be usefull for running all the codes.
+
